@@ -1,4 +1,4 @@
-# country_pickers
+# countries
 
 Countries, codes, flags and several way of picking them at your service...one widget away...
 

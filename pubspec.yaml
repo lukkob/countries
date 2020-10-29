@@ -1,8 +1,8 @@
-name: country_pickers
+name: countries
 description: Countries, codes, flags and several way of picking them at your service...one widget away...
-version: 1.3.0
-author: Figen Güngör <figengungor1@gmail.com>
-homepage: https://github.com/figengungor/country_pickers
+version: 1.0.0
+author: Łukasz Kobyliński <lukkob89@gmail.com>
+homepage: https://github.com/lukkob/countries/
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

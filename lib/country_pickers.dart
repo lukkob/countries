@@ -1,4 +1,4 @@
-library country_pickers;
+library countries;
 
 export 'country_picker_dropdown.dart';
 export 'country_picker_dialog.dart';

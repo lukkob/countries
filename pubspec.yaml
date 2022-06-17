@@ -1,0 +1,23 @@
+name: countries
+description: Complete list of countries
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.3  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+      - lib/assets/png100px/
+      - lib/assets/svg/
